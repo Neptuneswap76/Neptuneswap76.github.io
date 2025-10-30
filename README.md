@@ -1,2 +1,2 @@
-# Neptuneswap76.github.io
+# Neptuneswap76.github.com
 a website for swap exchange
